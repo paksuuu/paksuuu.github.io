@@ -1,2 +1,2 @@
-# randompaks.github.io
+# paksuuu.github.io
 my portfolio
